@@ -1,0 +1,4 @@
+.venv
+.DS_Store
+donnees_nettoyees.csv
+SBAnational.csv
