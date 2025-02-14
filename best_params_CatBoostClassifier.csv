@@ -1,0 +1,2 @@
+classifier__scale_pos_weight,classifier__random_strength,classifier__learning_rate,classifier__l2_leaf_reg,classifier__iterations,classifier__depth,classifier__border_count,classifier__bagging_temperature
+1,10,0.1,5,800,10,128,0
