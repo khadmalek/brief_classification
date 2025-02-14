@@ -1,2 +1,2 @@
-classifier__splitter,classifier__min_weight_fraction_leaf,classifier__min_samples_split,classifier__min_samples_leaf,classifier__max_leaf_nodes,classifier__max_features,classifier__max_depth,classifier__criterion,classifier__class_weight,classifier__ccp_alpha
-best,0.0,13,4,54,,16,gini,balanced,0.0
+classifier__splitter ,classifier__min_weight_fraction_leaf ,classifier__min_samples_split ,classifier__min_samples_leaf ,classifier__max_leaf_nodes ,classifier__max_depth ,classifier__criterion ,classifier__class_weight ,classifier__ccp_alpha
+best                 ,                                 0.0 ,                           13 ,                           4 ,                        54 ,                   16 ,gini                  ,balanced                 ,                  0.0

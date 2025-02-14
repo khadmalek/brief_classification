@@ -1,6 +1,10 @@
-.venv
+.venv/
 .DS_Store
 donnees_nettoyees.csv
 SBAnational.csv
-dataframe_nettoye.csv
 catboost_info/
+loan_project/
+images/
+dataframe_nettoye.csv
+presentation.txt
+présentation/
