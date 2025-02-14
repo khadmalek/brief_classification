@@ -2,3 +2,5 @@
 .DS_Store
 donnees_nettoyees.csv
 SBAnational.csv
+dataframe_nettoye.csv
+catboost_info/
