@@ -1,4 +1,7 @@
 .venv/
+.DS_Store
+donnees_nettoyees.csv
+SBAnational.csv
 catboost_info/
 loan_project/
 images/
